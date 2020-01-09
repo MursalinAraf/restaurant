@@ -1,0 +1,70 @@
+.login-form{
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+    background-position: center center;
+    background-size: cover;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../image2.jpg');
+    position: relative;
+    margin-top: 0px;
+
+}
+  
+.login-header{
+    color: lawngreen;
+    font-family: cursive;
+    margin: 0px;
+    cursor: pointer;
+}
+
+.login-header-div{
+background: #200122;
+background: -webkit-linear-gradient(to left, #6f0000, #200122);
+background: linear-gradient(to left, #6f0000, #200122);
+height: 15vh;
+background-size: cover;
+}
+
+
+.form{
+    color: seashell;
+    padding-top: 100px;
+    font-family: cursive;
+}
+
+.uname{
+    margin: 20px;
+    padding-right: 0px;
+}
+
+.pass{
+    margin: 20px;
+    padding-left: 0px;
+}
+
+.logbtn{
+    margin-top: 10px;
+    background-color: rgb(11, 22, 54);
+    color: seashell;
+    font-weight: bold;
+    height: 3.3em;
+    width: 100px;
+    border-radius: 12px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-family: cursive ;
+}
+
+.new{
+    color: seashell;
+    font-family: cursive;
+}
+
+.link{
+    color: seashell;
+    font-family: cursive;
+}
+
+.text{
+    margin-left: 25px;
+}

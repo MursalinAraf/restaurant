@@ -1,0 +1,75 @@
+.login{
+    background-color: rgb(11, 22, 54);
+        color: seashell;
+        font-weight: bold;
+        height: 2.8em;
+        border-radius: 12px;
+        cursor: pointer;
+        font-family: cursive ;
+        margin-top: 25px;
+        width: 80px;
+        margin-left: 990px;
+}
+
+.signup{
+    background-color: rgb(11, 22, 54);
+        color: seashell;
+        font-weight: bold;
+        height: 2.8em;
+        border-radius: 12px;
+        cursor: pointer;
+        font-family: cursive ;
+        margin-top: 25px;
+        width: 80px;
+        margin-left: 10px;
+}
+
+.logsign{
+    margin-left: 1100px;
+}
+
+.get-btn{
+
+    background-color: rgb(11, 22, 54);
+        color: seashell;
+        font-weight: bold;
+        height: 2.8em;
+        border-radius: 12px;
+        cursor: pointer;
+        font-family: cursive ;
+        margin-top: 32px;
+        width: 180px;
+        position: relative;
+}
+
+.body-element{
+    align-items: center;
+    text-align: left;
+    background-position: center center;
+    background-size: cover;
+    background: #200122;
+    background: -webkit-linear-gradient(to left, #6f0000, #200122);
+    background: linear-gradient(to left, #6f0000, #200122);
+    margin-top: 0px;
+}
+
+
+.toggle{
+    border-radius: 100%;
+    background-color: rgb(206, 91, 9);
+    color: seashell;
+    height: 50px;
+    width: 50px;
+    font-weight: bolder;
+    font-family: cursive;
+    font-size: 30px;
+    margin-left: 1100px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.call{
+    font-weight: bold;
+    font-family: cursive;
+    color: seashell;
+}

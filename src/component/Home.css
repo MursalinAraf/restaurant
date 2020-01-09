@@ -1,0 +1,119 @@
+.dada-header{
+    width: 100%;
+}
+
+.all-headers{
+    width: 100%;
+    display: inline-flex;
+    background: #200122;
+    background: -webkit-linear-gradient(to left, #6f0000, #200122);
+    background: linear-gradient(to left, #6f0000, #200122);
+    }
+    
+    .app-name{
+        text-align: left;
+        color: lawngreen;
+        margin-left: 10px;
+        font-family: cursive;
+        cursor: pointer;
+    }
+    
+    .input-items{
+        height: 2.8em;
+        width: 500px;
+        font-family: cursive;
+        font-weight: bold;
+        cursor: text;
+    }
+    
+    .search-btn{
+        background-color: rgb(11, 22, 54);
+        color: seashell;
+        font-weight: bold;
+        height: 3.3em;
+        width: 100px;
+        border-radius: 12px;
+        margin-left: 10px;
+        cursor: pointer;
+        font-family: cursive ;
+        margin-top: 32px;
+    }
+    
+    .places{
+        background-color: rgb(11, 22, 54);
+        color: seashell;
+        font-weight: bold;
+        height: 2.8em;
+        border-radius: 12px;
+        margin-left: 30px;
+        cursor: pointer;
+        font-family: cursive ;
+        margin-top: 32px;
+    }
+    
+    .about-me{
+        background-color: rgb(11, 22, 54);
+        color: seashell;
+        font-weight: bold;
+        height: 2.8em;
+        border-radius: 12px;
+        margin-left: 10px;
+        cursor: pointer;
+        font-family: cursive ;
+        margin-top: 32px;
+    }
+    
+    .search-bar{
+        margin-top: 23px;
+        margin-left: 140px;
+        width: 50%;
+        /* box-shadow: 0 0 0 1px rgba(0,0,0,.1), 0 2px 4px 1px rgba(0,0,0,.18); */
+        font-family: cursive;
+        font-size: 14px;
+        color: rgba(0,0,0,0.73);
+        padding: 10px 5px;
+        box-sizing: border-box;
+    }
+    
+    
+    .search-bar input{
+        width: 100%;
+        font-family: cursive;
+        font-size: 14px;
+        color: rgba(0,0,0,0.73);
+        outline: darkblue;
+    }
+    
+    .search-bar ul{
+        list-style-type: none;
+        text-align: left;
+        margin: 0px;
+        padding: 10px 10px;
+        /* border-top: 1px solid grey; */
+        background-color: aliceblue;
+        font-weight: bold;
+        color: black;
+    
+    }
+    
+    .search-bar ul::before{
+        content: "";
+    }
+    
+    .search-bar li{
+        /* padding: 10px 5px; */
+        cursor: pointer;
+        margin: 5px;
+    }
+    
+    .search-bar li:hover{
+        text-decoration: underline;
+        background-color: rgba(128, 128, 128, 0.2);
+    }
+    
+    .olala{
+        padding-right: 0px;
+        font-weight: bolder;
+        font-family: cursive;
+        font-size: small;
+    }
